@@ -6,8 +6,19 @@ Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dij
 
 ### Syllabus
 
-     Week 1 - Welcome Module
-     
+     Week 1 - Simple Regression
+              Lecture 1.1 Motivation 
+              Training Excersice 1.1
+              Lecture 1.2 Representation
+              Training Excersice 1.2
+              Lecture 1.3 Estimation
+              Training Excersice 1.3
+              Lecture 1.4 Evaluation
+              Training Excersice 1.4
+              Lecture 1.5 Application
+              Training Excersice 1.5
+              Peergroup Assignment 1
+              
      Week 2 - Multiple Regression
               Lecture 2.1 on Multiple Regression: Motivation
               Lecture 2.2 on Multiple Regression: Representation
@@ -15,6 +26,7 @@ Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dij
               Lecture 2.4.1 on Multiple Regression: Evaluation - Statistical Properties
               Lecture 2.4.2 on Multiple Regression: Evaluation - Statistical Tests
               Lecture 2.5 on Multiple Regression: Application
+              Peergroup Assignment 2
               
      Week 3 - Model Specification
               Lecture 3.1 on Model Specification: Motivation
@@ -22,28 +34,32 @@ Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dij
               Lecture 3.3 on Model Specification: Transformation
               Lecture 3.4 on Model Specification: Evaluation
               Lecture 3.5 on Model Specification: Application
-     
+              Peergroup Assignment 3
+              
      Week 4 - Endogeneity
               Lecture 4.1 on Endogeneity: Motivation
               Lecture 4.2 on Endogeneity: Consequences
               Lecture 4.3 on Endogeneity: Estimation
               Lecture 4.4 on Endogeneity: Testing
               Lecture 4.5 on Endogeneity: Application
-     
+              Peergroup Assignment 4
+              
      Week 5 - Binary Choice
               Lecture 5.1 on Binary Choice: Motivation
               Lecture 5.2 on Binary Choice: Representation
               Lecture 5.3 on Binary Choice: Estimation
               Lecture 5.4 on Binary Choice: Evaluation
               Lecture 5.5 on Binary Choice: Application
-     
+              Peergroup Assignment 5
+              
      Week 6 - Time Series
               Lecture 6.1 on Time Series: Motivation
               Lecture 6.2 on Time Series: Representation
               Lecture 6.3 on Time Series: Specification and Estimation
               Lecture 6.4 on Time Series: Evaluation and Illustration
               Lecture 6.5 on Time Series: Application
-     
+              Peergroup Assignment 6
+              
      Week 7 - Case Project
               This Case Project is the final assignment of our MOOC. It is of an applied nature, 
               and it asks you to answer practical questions by means of econometric methods. 
