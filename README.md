@@ -1,5 +1,5 @@
 # Econometrics_Methods_and_Applications
-Erasmus University Rotterdam course "Econometrics: Methods and Applications" by Prof. Philip Hans Franses and others (completed Jan. 2023)
+Erasmus University Rotterdam online course "Econometrics: Methods and Applications" by Prof. Philip Hans Franses and others on Coursera (completed Jan. 2023)
 
 ### Textbook
 Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dijk (2004): "Econometric Methods with Applications in Business and Economics", Oxford University Press 
