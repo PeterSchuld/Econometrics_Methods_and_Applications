@@ -1,5 +1,5 @@
 # Econometrics_Methods_and_Applications
-Erasmus University Rotterdam course "Econometrics: Methods and Applications" by Prof. Philip Hans Franses
+Erasmus University Rotterdam course "Econometrics: Methods and Applications" by Prof. Philip Hans Franses and others (completed Jan. 2023)
 
 ### Textbook
 Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dijk (2004): "Econometric Methods with Applications in Business and Economics", Oxford University Press 
@@ -9,14 +9,10 @@ Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dij
      Week 1 - Simple Regression
               Lecture 1.1 Motivation 
               Training Excersice 1.1
-              Lecture 1.2 Representation
-              Training Excersice 1.2
-              Lecture 1.3 Estimation
-              Training Excersice 1.3
-              Lecture 1.4 Evaluation
-              Training Excersice 1.4
-              Lecture 1.5 Application
-              Training Excersice 1.5
+              Lecture 1.2 on Single Regression: Representation (Training Excersice 1.2)
+              Lecture 1.3 on Single Regression: Estimation (Training Excersice 1.3)
+              Lecture 1.4 on Single Regression: Evaluation (Training Excersice 1.4)
+              Lecture 1.5 on Single Regression: Application (Training Excersice 1.5)
               Peergroup Assignment 1
               
      Week 2 - Multiple Regression
@@ -67,13 +63,13 @@ Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dij
      
      
      Week 8 - OPTIONAL: Building Blocks
-              Lecture M.1: Introduction to Vectors and Matrices12m
-              Lecture M.2: Special Matrix Operations14m
-              Lecture M.3: Vectors and Differentiation11m
-              Lecture P.1: Random Variables11m
-              Lecture P.2: Probability Distributions9m
-              Lecture S.1: Parameter Estimation11m
-              Lecture S.2: Statistical Testing13m
+              Lecture M.1: Introduction to Vectors and Matrices
+              Lecture M.2: Special Matrix Operations
+              Lecture M.3: Vectors and Differentiation
+              Lecture P.1: Random Variables
+              Lecture P.2: Probability Distributions
+              Lecture S.1: Parameter Estimation
+              Lecture S.2: Statistical Testing
 
 
 ### Instructors
@@ -86,3 +82,13 @@ Prof. Dr. Dick van Dijk - Erasmus University Rotterdam
 
 ### Offered by
 Erasmus University: a top-100 ranked international research university based in Rotterdam, the Netherlands. Our academic teaching and research focuses on four areas: health, wealth, culture and governance. 
+
+Erasmus School of Economics welcomes over 7000 Dutch and international students every academic year and provides world class education in economic disciplines and econometrics.
+
+Erasmus School of Economics’ history goes back to 1913, when the Netherlands School of Commerce was founded through a private initiative with broad support from the Rotterdam business community. 
+
+The statutory recognition of higher education in commerce and economics as an academic discipline resulted in 1939 into the Netherlands School of Economics, the predecessor of Erasmus University Rotterdam. 
+
+The university gained worldwide fame with its education and research in the fields of (business-) economics and econometrics and with its renowned professors, such as Johannes Witteveen, who became the first Managing Director of the International Monetary Fund, Henri Theil, and Jan Tinbergen, who won the Nobel Prize in Economics in 1969. 
+
+The school’s Econometric Institute is internationally recognised for its groundbreaking work and has Jan Tinbergen, one of the pioneers of econometrics as a discipline, as one of its founders. 
