@@ -1,5 +1,5 @@
 # Econometrics: Methods and Applications
-Erasmus University Rotterdam online course "Econometrics: Methods and Applications" by Prof. Philip Hans Franses and others on Coursera (completed Jan. 2023)
+Erasmus University Rotterdam online course »Econometrics: Methods and Applications« by Prof. Philip Hans Franses and others on Coursera (completed Jan. 2023)
 
 ![image](https://user-images.githubusercontent.com/59873708/219880461-ffea60cf-0c0c-4102-bcab-e570f9c8bb7e.png)
 
