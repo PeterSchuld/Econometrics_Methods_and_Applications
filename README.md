@@ -1,7 +1,16 @@
-# Econometrics_Methods_and_Applications
+# Econometrics: Methods and Applications
 Erasmus University Rotterdam online course "Econometrics: Methods and Applications" by Prof. Philip Hans Franses and others on Coursera (completed Jan. 2023)
 
 ![image](https://user-images.githubusercontent.com/59873708/219880461-ffea60cf-0c0c-4102-bcab-e570f9c8bb7e.png)
+
+
+### Instructors
+
+Prof. Dr. Philip Hans Franses - Erasmus University Rotterdam
+
+Prof. Dr. Richard Paap  - Erasmus University Rotterdam
+
+Prof. Dr. Dick van Dijk - Erasmus University Rotterdam
 
 
 ### Textbook
@@ -75,13 +84,6 @@ Christiaan Heij, Paul de Boer, Philip Hans Franses, Teun Kloek Herman K. van Dij
               Lecture S.2: Statistical Testing
 
 
-### Instructors
-
-Prof. Dr. Philip Hans Franses - Erasmus University Rotterdam
-
-Prof. Dr. Richard Paap  - Erasmus University Rotterdam
-
-Prof. Dr. Dick van Dijk - Erasmus University Rotterdam
 
 ### Offered by
 Erasmus University: a top-100 ranked international research university based in Rotterdam, the Netherlands. Our academic teaching and research focuses on four areas: health, wealth, culture and governance. 
